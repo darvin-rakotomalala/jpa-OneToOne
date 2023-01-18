@@ -11,6 +11,10 @@ Dans ce repo, nous allons voir comment implémenter le mappage bidirectionnel Sp
 - PostgreSQL
 - MapStruct
 
+### Exemples
+---
+Un `User` peut avoir un et un seul `userProfile`.
+
 ### Exécuter et tester le projet
 ---
 - Exécuter l'application `mvn spring-boot:run`
